@@ -1,0 +1,94 @@
+{
+"user":[{
+        "name":"Vasu",
+        "feedback": "5 star",
+        "city": "Bangalore",
+        "email" : "me-info@example.com"
+    },
+    {
+        "name":"Aravind",
+        "feedback": "4 star",
+        "city": "Chennai",
+        "email" : "hi-data@example.in"
+    },
+    {
+        "name":"Prasanna",
+        "feedback": "4 star",
+        "city": "Chennai",
+        "email" : "me-info@example.comfs"
+    },
+    {
+        "name":"Ashik",
+        "feedback": "4 star",
+        "city": "Trichy",
+        "email" : "me-info@example.com"
+    },
+    {
+        "name":"Vinoth",
+        "feedback": "4 star",
+        "city": "Chennai",
+        "email" : "hi-data@example.in"
+    },
+    {
+        "name":"Prasanna",
+        "feedback": "4 star",
+        "city": "Chennai",
+        "email" : "me-info@example.comfs"
+    }
+
+],
+
+
+
+    "bikes":[
+    {
+        "brand":"Royal Enfield",
+        "model": "Classic 350",
+        "year": "2018",
+        "color" : "Matte Black",
+        "price":165000,
+        "tax": 1760,
+        "insurance": 9500
+    },
+    {
+        "brand":"Royal Enfield",
+        "model": "Thunderbird 350X",
+        "year": "2019",
+        "color" : "Whimsical White",
+        "price":175000,
+        "tax": 1760,
+        "insurance": 10000
+    },
+    {
+       "brand":"Yamaha",
+        "model": "R15 v3",
+        "year": "2019",
+        "color" : "Dark Knight",
+        "price":145000,
+        "tax": 1560,
+        "insurance": 9000
+    },
+    {
+        "brand":"TVS",
+        "model": "Apache 4V",
+        "year": "2019",
+        "color" : "Matte Blue",
+        "price":138000,
+        "tax": 1460,
+        "insurance": 8700
+    }
+],
+   "brand" : [
+    {"brand1":"Royal Enfield"},
+    {"brand2": "Yamaha"},
+    {"brand3": "TVS" }  
+],
+   "discount_price":[
+    {"discount_price1":5000},
+    {"discount_price2": 6300},
+    {"discount_price3": 2100 }, 
+    {"discount_price4":4200 }
+   ]
+}
+
+ 
