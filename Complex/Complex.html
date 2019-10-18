@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Biker Buddy</title>
+                <link rel="stylesheet" type="text/css" href="complex.css">
+                <meta name="viewport" content="width=device-width, initial-scale=1">        
+        </head> 
+<body>
+    <header>
+        <h1>Biker Buddy</h1>
+    </header>
+    <a><img alt="Image-not found" class="logo" src="bikerbuddy.png"></a><br> 
+<p id="showroom"></p>
+<p id="demo"></p>
+<p id="browse">Browse bikes by</p>
+
+<section id="Royalenfield">
+    <a><img alt="Image-not found" class="logo1" src="RE.png" onclick="bike1.display_bike()+bike2.display_bike()"></a><br> 
+    <p id="quotes1">"Made Like a Gun, Goes Like a Bullet"</p>
+    <button id="btn1" type="button" onclick="bike1.display_onroadprice()+bike2.display_onroadprice()">On-Road Price</button> 
+    <button id="btn1" type="button" onclick="bike1.display_discountprice()">Discount Price</button> 
+    <p id="top_line1"></p>
+    <p id="demo1"></p>
+    <p id="separator1"></p>
+    <p id="onroad1"></p>
+    <p id="separator1x"></p>
+    <p id="discount1"></p>
+    <p id="bot_line1"></p>
+</section>
+
+<section id="Yamaha">
+    <br><a><img alt="Image-not found" class="logo2" src="yamaha.png" onclick="bike3.display_bike()"></a><br>
+    <p id="quotes2">"Revs Your Heart"</p>
+    <button id="btn2" type="button" onclick="bike3.display_onroadprice()">On-Road Price</button> 
+    <button id="btn2" type="button" onclick="bike3.display_discountprice()">Discount Price</button> 
+    <p id="top_line2"></p>
+    <p id="demo2"></p>
+    <p id="separator2"></p>
+    <p id="onroad2"></p>
+    <p id="separator2x"></p>
+    <p id="discount2"></p>
+    <p id="bot_line2"></p>
+</section>
+
+<section id="TVS">
+    <img alt="Image-not found" class="logo3" src="tvs.png" onclick="bike4.display_bike()">
+    <p id="quotes3">"Trust,Value,Service"</p>   
+    <button id="btn3" type="button" onclick="bike4.display_onroadprice()">On-Road Price</button> 
+    <button id="btn3" type="button" onclick="bike4.display_discountprice()">Discount Price</button> 
+    <p id="top_line3"></p>
+    <p id="demo3"></p>
+    <p id="separator3"></p>
+    <p id="onroad3"></p>
+    <p id="separator3x"></p>
+    <p id="discount3"></p>
+    <p id="bot_line3"></p><br>
+    <p id="line">----------------------------------------------Feedback------------------------------------------------</p>
+</section>
+
+<section id="Feedback">
+    <button id="btn4" type="button" onclick="Feedback();">Feedback</button> 
+    <p id="feedback"></p>
+    <p id="feedback_sep"></p>
+</section>
+
+<script type="text/javascript" language="javascript" src="complex.js"></script>
+</body>
+</html>
+ 
