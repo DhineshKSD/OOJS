@@ -1,0 +1,212 @@
+body
+{
+    background-image: linear-gradient(rgba(8, 8, 8, 0.5),rgba(0,0,0,0.5)),url(background.jpg);
+    width:100%;
+    height: auto;
+    color: whitesmoke;
+    font-size: 1.3em;
+    overflow-x: hidden;
+}
+h1{
+    position: relative;
+    left:42%;
+    top:30px;
+    padding-bottom: 10px;
+}
+.logo{
+    position: absolute;
+    width:180px;
+    height: 180px;
+    bottom: 470px;
+}
+h2{
+    position: relative;
+    font-size: 1.5em;
+    right: 2%;
+}
+#quotes1{
+    position: relative;
+    font-size: 1.5em;
+    right:10%;
+}
+h3{
+    position: relative;
+    font-size: 1.5em;
+    right: 0%;
+}
+#quotes2{
+    position: relative;
+    font-size: 1.5em;
+    right:1%;
+}
+h4{
+    position: relative;
+    font-size: 1.5em;
+    left:2%;   
+}
+#quotes3{
+    position: relative;
+    font-size: 1.5em;
+    right:2.5%;
+    bottom: 30px;
+}
+#showroom{
+    position: relative;
+    padding-bottom: 40px;
+    text-align: center;
+}
+#demo{
+    position: relative;
+    text-align: center;
+}
+#Royalenfield,#Yamaha,#TVS,#browse
+{
+    position: relative;
+    left:42%
+}
+#browse
+{
+    position: relative;
+    left:42%;
+    font-size: 1.5em;
+}
+#top_line1,#demo1,#onroad1,#discount1,#bot_line1,#separator1,#separator1x
+{
+    position: relative;
+    right:42%;
+    text-align: center;
+}
+#top_line2,#demo2,#onroad2,#discount2,#bot_line2,#separator2,#separator2x
+{
+    position: relative;
+    right:42%;
+    text-align: center;
+}
+#top_line3,#demo3,#onroad3,#discount3,#bot_line3,#separator3,#separator3x,#line
+{
+    position: relative;
+    right:42%;
+    text-align: center;
+}
+#btn1,#btn2,#btn3
+{
+    position: relative;
+    right:0%;
+}
+#btn4
+{
+    position: relative;
+    left:46.5%;
+}
+#feedback{
+    position: relative;
+    right:0%;
+    text-align: center;
+}
+#feedback_sep{
+    position: relative;
+    right:0%;
+    text-align: center;
+}
+.logo1{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left:2%;
+    cursor: pointer;
+}
+.logo2{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left:2%;
+    cursor: pointer;
+}
+.logo3{
+    position: relative;
+    width: 180px;
+    height: 180px;
+    left:1.5%;
+    cursor: pointer;
+}
+.logo1:hover
+{
+    transform: scale(1.15);
+}
+.logo2:hover
+{
+    transform: scale(1.15);
+}
+.logo3:hover
+{
+    transform: scale(1.15);
+}
+#btn1{
+    width:150px;
+    height: 40px;
+    background: #d8381b;
+    color:  #ffc107ec;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    right: 3.5%;
+    cursor: pointer;
+}
+#btn2{
+    width:150px;
+    height: 40px;
+    background: #2b17a0;
+    color:  #faf9f6;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    right: 3.5%;
+    cursor: pointer;
+}
+#btn3{
+    width:150px;
+    height: 40px;
+    background: #1a3870de;
+    color:  #f1ebeb;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    right: 3.5%;
+    cursor: pointer;
+}
+#btn4{
+    position: relative;
+    left:43.8%;
+    width:150px;
+    height: 40px;
+    background:  #ffc107;
+    color:  #080808;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+#btn1:hover{
+    background: rgb(154, 157, 160);
+    color: #000;
+}
+#btn2:hover{
+    background: rgb(154, 157, 160);
+    color: #000;
+}
+#btn3:hover{
+    background: rgb(154, 157, 160);
+    color: #000;
+}
+#btn4:hover{
+    background: rgb(154, 157, 160);
+    color: #000;
+}
+
+
+
+
